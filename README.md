@@ -1,6 +1,11 @@
-# ox_app
+# OX Game
 
-A new Flutter project.
+
+| Main        | Playing           | Result  |
+| ------------- |:-------------:| -----:|
+| ![APP Demo 01](https://raw.githubusercontent.com/itti9gat/flutter_ox_game/master/demo/emu_01.png)      | ![APP Demo 02](https://raw.githubusercontent.com/itti9gat/flutter_ox_game/master/demo/emu_02.png) | ![APP Demo 03](https://raw.githubusercontent.com/itti9gat/flutter_ox_game/master/demo/emu_03.png) |
+
+
 
 ## Getting Started
 
